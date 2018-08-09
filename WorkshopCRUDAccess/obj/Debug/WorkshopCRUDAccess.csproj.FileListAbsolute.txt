@@ -1,0 +1,10 @@
+C:\Users\wichian.kr\source\repos\WorkshopCRUDAccess\WorkshopCRUDAccess\bin\Debug\WorkshopCRUDAccess.exe.config
+C:\Users\wichian.kr\source\repos\WorkshopCRUDAccess\WorkshopCRUDAccess\bin\Debug\WorkshopCRUDAccess.exe
+C:\Users\wichian.kr\source\repos\WorkshopCRUDAccess\WorkshopCRUDAccess\bin\Debug\WorkshopCRUDAccess.pdb
+C:\Users\wichian.kr\source\repos\WorkshopCRUDAccess\WorkshopCRUDAccess\obj\Debug\WorkshopCRUDAccess.csprojAssemblyReference.cache
+C:\Users\wichian.kr\source\repos\WorkshopCRUDAccess\WorkshopCRUDAccess\obj\Debug\WorkshopCRUDAccess.Main.resources
+C:\Users\wichian.kr\source\repos\WorkshopCRUDAccess\WorkshopCRUDAccess\obj\Debug\WorkshopCRUDAccess.Properties.Resources.resources
+C:\Users\wichian.kr\source\repos\WorkshopCRUDAccess\WorkshopCRUDAccess\obj\Debug\WorkshopCRUDAccess.csproj.GenerateResource.cache
+C:\Users\wichian.kr\source\repos\WorkshopCRUDAccess\WorkshopCRUDAccess\obj\Debug\WorkshopCRUDAccess.csproj.CoreCompileInputs.cache
+C:\Users\wichian.kr\source\repos\WorkshopCRUDAccess\WorkshopCRUDAccess\obj\Debug\WorkshopCRUDAccess.exe
+C:\Users\wichian.kr\source\repos\WorkshopCRUDAccess\WorkshopCRUDAccess\obj\Debug\WorkshopCRUDAccess.pdb
